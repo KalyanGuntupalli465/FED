@@ -41,4 +41,4 @@ function creditcardcheck(num){
 stringequivalence("ram","RAM")
 reversestring("suresh")
 alphanumeric("this is a javascript program??")
-creditcardcheck("340123452685125")
+creditcardcheck("4550831814631")
